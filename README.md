@@ -1,7 +1,5 @@
 ### Hi there I'm Arsalan 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on MERN Applications
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on everything
