@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: amirseraj.ir@gmail.com
 
 ![Arsalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArsalanSeraj&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Arsalan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArsalanSeraj)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
